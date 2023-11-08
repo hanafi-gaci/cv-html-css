@@ -1,0 +1,303 @@
+
+body {
+
+    background-image: url('images/fond.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat
+}
+
+header h1 {
+    font-size: 50px;
+    color:  rgb(255, 255, 255);
+
+}
+
+header {
+    background-color: #2c2925;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid  rgb(255, 255, 255);
+    opacity: 0.5;
+    margin-bottom: 20px;
+
+}
+
+div.inf {
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+      }
+
+section.informations h2 {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+li.nom {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+
+}
+
+li.email {
+font-size: 20px;
+color: rgb(250, 247, 247);
+
+}
+
+li.telephone {
+font-size: 20px;
+color: rgb(255, 255, 255);
+
+}
+
+li.adresse {
+font-size: 20px;
+color: rgb(255, 255, 255);
+
+}
+
+li.permisb {
+font-size: 20px;
+color: rgb(255, 255, 255);
+
+}
+
+div.exp{
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+section.experiences h2 {
+
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+
+h3.Vendeur {
+
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.livreur {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.agent {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.Manutentionnaire {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.plombier {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+h3.caissier {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+h3.Preparateur {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+div.form {
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+section.formations {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+
+section.formations h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+h3.date {
+    font size: 17px;
+    color:  rgb(255, 253, 253)
+}
+
+p.Lycée {
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+
+}
+ 
+h3.date1 {
+    font size: 17px;
+    color:  rgb(255, 255, 255)
+
+}
+
+p.college {
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+
+}
+
+div.obj {
+
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+section.Objectif h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+section.Objectif li {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+div.comp {
+    
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+section.competences h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+section.competences li {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+div.moncv {
+
+    border: 2px solid #000; 
+    padding: 5px;
+    background-color: gray;
+    opacity: 0,3;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+section.moncv p {
+
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;    
+}
+
+section.moncv a {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+
+footer {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
